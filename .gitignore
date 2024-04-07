@@ -1,2 +1,9 @@
 
 /ntrm_venv
+input/data/Nigeria/Nigeria_nutrient_data_final_machinelearning.xlsx
+input/data/Nigeria/Nigeria_nutrient_data_final_machinelearning_old.xlsx
+input/data/Nigeria/Nigeria_nutrient_data_final_machinelearning_label_old.xlsx
+input/data.zip
+.ipynb_checkpoints/Nigeria_nutrient_data_final_analysis-checkpoint.ipynb
+input/data/Nigeria/Nigeria_nutrient_data_final_machinelearning.dta
+input/data/Senegal/SN_papa_11_21_mappingfct2019_machinelearning.dta
